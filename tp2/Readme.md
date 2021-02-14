@@ -7,7 +7,7 @@
 * `kubectl apply -f nginx-deployment.yml`
 * `kubectl get deploy`
 * `kubectl get  replicaset`
-* `kubectl get po`
+* `kubectl get po`  
 If we wont to see more details:
 * `kubectl get  replicaset -o wide` 
 
