@@ -1,3 +1,5 @@
+# Deployment of my first application : NGINX
+
 ## Commands uses to execute our Pod
 * `kubectl apply -f pod.yml`
 * `kubectl get pod`
@@ -10,4 +12,3 @@
 * `kubectl get po`  
 If we wont to see more details:
 * `kubectl get  replicaset -o wide` 
-
