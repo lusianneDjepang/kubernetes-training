@@ -8,6 +8,6 @@
 * `kubectl get pod -n production`
 * `kubectl apply -f service-nodeport-web.yml -n production`
 * `kubectl -n production get service`  
-ou  
+or  
 * `kubectl -n production get svc`
 * `kubectl -n production describe svc service-nodeport-web`
